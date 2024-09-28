@@ -1,7 +1,5 @@
 # Домашнее задание к занятию «10. Coroutines: Scopes, Cancellation, Supervision»
 
-Выполненное задание прикрепите ссылкой на ваши GitHub-проекты в личном кабинете студента на сайте [netology.ru](https://netology.ru).
-
 ## Вопросы: Cancellation
 
 ### Вопрос №1
